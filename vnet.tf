@@ -3,4 +3,5 @@ module "network" {
   version = "3.1.1"
 
   resource_group_name = "elita-workshop"
+
 }
